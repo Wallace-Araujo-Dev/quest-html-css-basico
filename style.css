@@ -1,0 +1,18 @@
+table{
+    color: white;
+}
+
+.cabeçalho-moda-th{
+    background-color:#bb86fc;
+    padding: 8px;
+}
+
+.cabeçalho-casa-th{
+    background-color: #00c4b4;
+    padding: 8px;
+}
+
+.produtos{
+    background-color: #424250;
+    padding: 8px;
+}
